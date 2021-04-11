@@ -1,2 +1,6 @@
 # Database
-Simple database using boost::fusion, boost::asio, boost::interprocess and boost::multi_index
+Simple database using 
+- `boost::fusion`
+- `boost::asio`
+- `boost::interprocess`
+- `boost::multi_index`
